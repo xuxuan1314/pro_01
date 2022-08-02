@@ -8,4 +8,5 @@ html {
 h1 {
     font-weight: 200;
     text-align: center;
+    margin: 100px auto;
 }

@@ -1,0 +1,4 @@
+# 忽略所有 .txt文件
+test/**/*.txt
+# 忽略index.css文件
+index.css
